@@ -5,37 +5,39 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
+        <filter table="x_402039_demo_app_demo_app">state!=3^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Demo Apps</mobile_title>
+        <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_402039_demo_app_demo_app</name>
-        <order>200</order>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <roles>x_402039_demo_app.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-11-20 07:58:35</sys_created_on>
+        <sys_created_on>2019-12-03 08:02:13</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>dd9c74a4db1100108dffe37a489619b8</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>All</sys_name>
+        <sys_id>4399ff2cdb2100108dffe37a4896190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
         <sys_overrides/>
         <sys_package display_value="Demo App" source="x_402039_demo_app">ad5b7064db1100108dffe37a48961903</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo App">ad5b7064db1100108dffe37a48961903</sys_scope>
-        <sys_update_name>sys_app_module_dd9c74a4db1100108dffe37a489619b8</sys_update_name>
+        <sys_update_name>sys_app_module_4399ff2cdb2100108dffe37a4896190b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-03 08:03:38</sys_updated_on>
+        <sys_updated_on>2019-12-03 08:02:13</sys_updated_on>
         <timeline_page/>
-        <title>All</title>
+        <title>Open</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
