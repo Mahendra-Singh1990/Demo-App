@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category>none</license_category>
@@ -24,9 +24,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-20 07:53:08</sys_created_on>
         <sys_id>ad5b7064db1100108dffe37a48961903</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-20 07:53:08</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2019-12-03 10:51:56</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
