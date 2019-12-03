@@ -3,7 +3,8 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>Only display What needed choices that match the Request type value.</description>
+        <description>Only display What needed choices that match the Request type value.&#13;
+onChange example</description>
         <field>u_request_type</field>
         <global>true</global>
         <isolate_script>true</isolate_script>
@@ -54,7 +55,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a9f859e8db5100108dffe37a48961912</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Demo Request Type Options</sys_name>
         <sys_overrides/>
         <sys_package display_value="Demo App" source="x_402039_demo_app">ad5b7064db1100108dffe37a48961903</sys_package>
@@ -62,7 +63,7 @@
         <sys_scope display_value="Demo App">ad5b7064db1100108dffe37a48961903</sys_scope>
         <sys_update_name>sys_script_client_a9f859e8db5100108dffe37a48961912</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-20 10:47:42</sys_updated_on>
+        <sys_updated_on>2019-12-02 10:24:20</sys_updated_on>
         <table>x_402039_demo_app_demo_app</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

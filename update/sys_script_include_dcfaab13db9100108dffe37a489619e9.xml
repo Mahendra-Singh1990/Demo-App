@@ -4,7 +4,7 @@
         <active>true</active>
         <api_name>x_402039_demo_app.GetEmailAddress</api_name>
         <client_callable>true</client_callable>
-        <description>Script Include to return an email address. The calling client-side script passes a sys_id for a User table record.</description>
+        <description>Script Include to return an email address. The calling client-side script passes a sys_id for a User table record. This Script include is  called in  "NeedIt Populate Email Field" client script.</description>
         <name>GetEmailAddress</name>
         <script><![CDATA[var GetEmailAddress = Class.create();
 // Extend the global.AbstractAjaxProcessor class
@@ -24,13 +24,13 @@ GetEmailAddress.prototype = Object.extendsObject(global.AbstractAjaxProcessor,{
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-11-29 09:46:12</sys_created_on>
         <sys_id>dcfaab13db9100108dffe37a489619e9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>GetEmailAddress</sys_name>
         <sys_package display_value="Demo App" source="x_402039_demo_app">ad5b7064db1100108dffe37a48961903</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="Demo App">ad5b7064db1100108dffe37a48961903</sys_scope>
         <sys_update_name>sys_script_include_dcfaab13db9100108dffe37a489619e9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-29 09:46:12</sys_updated_on>
+        <sys_updated_on>2019-12-02 10:23:03</sys_updated_on>
     </sys_script_include>
 </record_update>
