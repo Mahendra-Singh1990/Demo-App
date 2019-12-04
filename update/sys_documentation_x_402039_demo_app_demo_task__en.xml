@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_other" label="Other" language="en" table="x_402039_demo_app_demo_app">
+    <sys_documentation element="" label="Demo task" language="en" table="x_402039_demo_app_demo_task">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>u_other</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Other</label>
+            <label>Demo task</label>
             <language>en</language>
-            <name>x_402039_demo_app_demo_app</name>
-            <plural>Others</plural>
+            <name>x_402039_demo_app_demo_task</name>
+            <plural>Demo tasks</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-11-21 11:06:58</sys_created_on>
-            <sys_id>fa6f89cddb2100108dffe37a489619d1</sys_id>
+            <sys_created_on>2019-12-04 11:01:43</sys_created_on>
+            <sys_id>84cc65c5dba100108dffe37a489619e2</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Other</sys_name>
+            <sys_name>Demo task</sys_name>
             <sys_package display_value="Demo App" source="x_402039_demo_app">ad5b7064db1100108dffe37a48961903</sys_package>
             <sys_policy/>
             <sys_scope display_value="Demo App">ad5b7064db1100108dffe37a48961903</sys_scope>
-            <sys_update_name>sys_documentation_x_402039_demo_app_demo_app_u_other_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_402039_demo_app_demo_task__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-11-21 11:06:58</sys_updated_on>
+            <sys_updated_on>2019-12-04 11:01:43</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
