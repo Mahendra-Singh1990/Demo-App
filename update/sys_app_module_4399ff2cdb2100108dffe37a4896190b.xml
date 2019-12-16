@@ -5,7 +5,7 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_402039_demo_app_demo_app">state!=3^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="3"/>
+        <filter table="x_402039_demo_app_demo_app">state!=3^EQ<item display_value="Closed Complete" endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="3"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint/>

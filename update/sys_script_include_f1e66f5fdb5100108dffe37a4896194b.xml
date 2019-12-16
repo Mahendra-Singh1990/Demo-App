@@ -3,6 +3,7 @@
         <access>public</access>
         <active>false</active>
         <api_name>x_402039_demo_app.validateEmailAddress</api_name>
+        <caller_access/>
         <client_callable>true</client_callable>
         <description/>
         <name>validateEmailAddress</name>
